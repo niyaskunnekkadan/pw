@@ -1,0 +1,18 @@
+body{
+    background-color: #FFD966;
+}
+p{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+    color: black;
+}
+
+@media screen and (max-width:460px) {
+    p{
+        text-align: center;
+        margin-top: 150px;
+        font-size: 17px;
+        color: black;
+    }
+}
